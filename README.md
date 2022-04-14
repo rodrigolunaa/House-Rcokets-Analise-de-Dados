@@ -29,4 +29,4 @@ A House Rocket é uma plataforma digital que tem como modelo de negócio, a comp
 
 
 ## 4. Conclusão
-Foram criados dois arquivos .csv com as recomendações de imóveis, um com recomendações de compra e outro com recomendações de compra + preço de venda	
+Foram criados dois arquivos .csv com as recomendações de imóveis, um com recomendações de compra e outro com recomendações de compra + preço de venda. Além disso, um app foi criado a partir do Streamlit e Heroku para permitir uma visualização de dados interativa e instantânea. Esse é o link: https://analytics-house-rocket-web.herokuapp.com/	
