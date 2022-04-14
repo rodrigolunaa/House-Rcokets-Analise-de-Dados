@@ -5,8 +5,8 @@ Esse é o link: https://www.kaggle.com/harlfoxem/housesalesprediction
 
 ## 1. Questão de negócio
 A House Rocket é uma plataforma digital que tem como modelo de negócio, a compra e a venda de imóveis usando tecnologia. Sua principal estratégia é comprar boas casas em ótimas localizações com preços baixos e depois revendê-las posteriormente à preços mais altos. Quanto maior a diferença entre a compra e a venda, maior o lucro da empresa e portanto maior sua receita.  Entretanto, O time do negócio não consegue tomar boas decisões de compra sem analisar os dados e o portfólio é muito grande levaria muito tempo para fazer o trabalho manualmente. Logo, o objetivo foi encontrar as melhores oportunidades de compra de imóveis do portfólio da House Rocket através de uma análise com Python. Para isso, foi necessário responder duas questões:
-### 1. Quais são os imóveis que a House Rocket deveria comprar?
-### 2. Uma vez a casa comprada, qual o melhor momento para vendê-las e por qual preço ?
+#### 1. Quais são os imóveis que a House Rocket deveria comprar?
+#### 2. Uma vez a casa comprada, qual o melhor momento para vendê-las e por qual preço ?
 
 ## 2. Premissas
 - Imóveis que deveriam ser comprados => imóveis com valor menor que a mediana da região, condição >=3 e nota >= 8.
