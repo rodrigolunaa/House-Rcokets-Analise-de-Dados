@@ -28,11 +28,23 @@ A House Rocket é uma plataforma digital que tem como modelo de negócio, a comp
 		2. Se o preço da compra for menor que a mediana da região + época, o preço da venda será igual ao preço da compra + 30%
 
 
+## Insights
+O coeficiente de Pearson, mede o grau de correlação através do cálculo de direção positiva ou negativa. Este coeficiente, normalmente representado por ρ assume apenas valores entre -1 e 1. Como podemos interpretar os valores que ρ pode assumir?
+- ρ = 0,9 a 1 (positivo ou negativo): correlação muito forte;
+- ρ = 0,7 a 09 (positivo ou negativo): correlação forte;
+- ρ = 0,5 a 0,7 (positivo ou negativo): correlação moderada;
+- ρ = 0,3 a 0,5 (positivo ou negativo): correlação fraca;
+- ρ = 0 a 0,3 (positivo ou negativo): não possui correlação.
+
+De acordo com o coeficiente, os fatores que mais influenciam no PREÇO da casa são: 
+- 1º. Square Foot Living area (área de convívio da casa) - 0.702079 (Forte)
+- 2º. Nota - 0.667509 (Moderada)
+- 3º. Square Foot Above (área de vivência acima do nível do chão) - 0.605611 (Moderado)
+
+
 ## 5. Resultado Financeiro
-Se a empresa seguir a recomendação, comprar e revender os imóveis pelos preços sugeridos,  faturmaneto será de U$ 425.699.441,0
+Se a empresa seguir a recomendação, comprar e revender os imóveis pelos preços sugeridos, o faturmaneto previsto será de U$ 425.699.441
 
 
-
-
-## 5. Conclusão
+## 6. Conclusão
 Foram criados dois arquivos .csv com as recomendações de imóveis, um com recomendações de compra e outro com recomendações de compra + preço de venda. Além disso, um app foi criado a partir do Streamlit e Heroku para permitir uma visualização de dados interativa e instantânea. Esse é o link: https://analytics-house-rocket-web.herokuapp.com/	
