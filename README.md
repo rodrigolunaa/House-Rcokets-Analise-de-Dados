@@ -9,8 +9,8 @@ A House Rocket é uma plataforma digital que tem como modelo de negócio, a comp
 #### 2. Uma vez a casa comprada, qual o melhor momento para vendê-las e por qual preço ?
 
 ## 2. Premissas
-- Imóveis que deveriam ser comprados => imóveis com valor menor que a mediana da região, condição >=3 e nota >= 8.
-- Mehor época do ano para vender => Quando o mercado está aquecido, ou seja, a média de preços está maior.
+- Imóveis que deveriam ser comprados são os imóveis com: valor menor que a mediana da região, condição >= 3 e nota >= 8.
+- Mehor época do ano para vender é quando o mercado está aquecido, ou seja, a média de preços está maior.
 - Região e época do ano são fatores determinantes no preço.
 
 
