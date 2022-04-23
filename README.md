@@ -47,4 +47,4 @@ Se a empresa seguir a recomendação, comprar e revender os imóveis pelos preç
 
 
 ## 6. Conclusão
-Foram criados dois arquivos .csv com as recomendações de imóveis, um com recomendações de compra e outro com recomendações de compra + preço de venda. Além disso, um app foi criado a partir do Streamlit e Heroku para permitir uma visualização de dados interativa e instantânea. Esse é o link: https://analytics-house-rocket-web.herokuapp.com/	
+Foram criados dois arquivos (Best_Houses.csv; Best_Houses_Prices.csv) com as recomendações de imóveis, um com recomendações de compra e outro com recomendações de compra + preço de venda. Além disso, um app foi criado a partir do Streamlit e Heroku para permitir uma visualização de dados interativa e instantânea. Esse é o link: https://analytics-house-rocket-web.herokuapp.com/	
